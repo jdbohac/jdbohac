@@ -3,12 +3,13 @@
 
 
 - 🔭 I’m currently working on: 
-  Finishing my cohort at General Assembly
+    Finishing my cohort at General Assembly
 - 🌱 I’m currently learning: 
-  Relating tables using a React front-end with a Django backend
+    More advanced React animation methods
 - 👯 I’m looking to collaborate on:
-  A job!
+    Any project that can challenge my current abilities and push me to learn new things
 - 🤔 I’m looking for help with: 
-  Getting a job!
-- 💬 Ask me about: Twin Peaks
+    Networking! Know anybody who I could connect with on a future project? Please send them my way!
+- 💬 Ask me about: 
+    Twin Peaks
 
