@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-    My name is Jeffrey Bohac, A creative, easy-going Software Developer/Engineer | Node.JS developer 
+    My name is Jeffrey Bohac, A creative, easy-going Software Engineer 
     with a background in bespoke metal crafts, great work ethic and an aptitude 
     for learning new skills in a short amount of time. I have a knack for solving 
     complicated problems and the ability to stay cool under pressure. 
